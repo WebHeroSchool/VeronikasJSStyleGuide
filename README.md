@@ -1,4 +1,4 @@
-### VeronikasJSStyleGuide 8-)
+### VeronikasJSStyleGuide   :wink:
  ---
  # *10 правил стиля  JavaScript*
  ---
