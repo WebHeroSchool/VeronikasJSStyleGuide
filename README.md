@@ -1,6 +1,6 @@
-# VeronikasJSStyleGuide
+### VeronikasJSStyleGuide 8-)
  ---
- ##### *10 правил стиля  JavaScript*
+ # *10 правил стиля  JavaScript*
  ---
  ##### [1. Oбъявлениe массивов](#1)
  ##### [2. Объявление функций](#2)
@@ -200,5 +200,5 @@ class Queue {
  ];
  ```
  
- ##May the JS be with you
+ ## May the JS be with you
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
